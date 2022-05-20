@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=SQHGy6AMYOA----Calculation of Synchrosqueezed WFT and WT in MatLab
+
+https://www.youtube.com/watch?v=OkiTMTcOTxE-----Continuous Wavelet Transform (CWT) of 1-D Signals using Python and MATLAB (with Scalogram plots)
